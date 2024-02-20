@@ -63,6 +63,9 @@ BASE - PRÉ LIMPEZA
 - **chutes_fora_mandante**: Número de chutes para fora realizados pelo time mandante.
 - **chutes_fora_visitante**: Número de chutes para fora realizados pelo time visitante.
 
+BASE POS 1 LIMPEZA
+
+
 ### Informações da Venda de Ingressos:
 - **Data do jogo**: Data do jogo.
 - **Hora do jogo**: Hora do jogo.
